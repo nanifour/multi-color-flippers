@@ -196,42 +196,21 @@ Container
 */
 main {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 0.5px;
   place-items: center;
 }
-.split {
- 
-  height: 100%;
-  width: 100%;
-  padding-top: 200px;
 
-}
-/* Control the left side */
-.left {
-  left: 0;
-}
-
-/* Control the right side */
-.right {
-  right: 0;
-}
-
-.container-1, .container-2 {
+.container {
   text-align: center;
- 
 }
 
-.container-2 h2, .container-1 h2{
+.container h2{
   background: var(--clr-black);
   color: var(--clr-white);
   padding: 1rem;
   border-radius: var(--radius);
   margin-bottom: 2.5rem;
-  margin-left: 2rem;
-  margin-right: 1rem;
 }
-.color, .color-2 {
+.color{
   color: var(--clr-primary-5);
 }
 
