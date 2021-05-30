@@ -5,7 +5,7 @@
 
 
 
-![screenshot](images/rgba.png)
+![screenshot](images/rgb.png)
 
 ![screenshot](images/hex.png)
 
