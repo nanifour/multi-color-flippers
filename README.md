@@ -1,8 +1,15 @@
-# 🟣 Color Pickers 🟢 
+# 🟣 Color Flippers 🟢 
 
 ![](https://img.shields.io/github/languages/top/nanifour/multi-color-flippers?style=for-the-badge)        [![Demo](https://img.shields.io/badge/Site_Demo-informational?style=for-the-badge&logo=github)](https://nanifour.github.io/multi-color-flippers/)
 
-A color flipper that changes the color of the background when the user clicks the button. There are three different types of color flips in this project: RGB, Hex, side by side hex (double hex).  The double hex color flipper allows the user to compare two colors side by side.
+Three simple color flippers that allow the user to change the background to a random color when a button is clicked.
+
+The three color flippers in this project are: RGB, hex, side by side hex (double hex).  
+
+- RGB: randomly generates the rgb color code from the available 16 million colors(that’s why infinite).
+- Hex: randomly generates the hex color code from the available 16 million colors.
+- Double Hex: This does the same job of the regular hex but it allows the user to compare two colors beside each other.
+
 
 ## 2 Technologies used
 - HTML
